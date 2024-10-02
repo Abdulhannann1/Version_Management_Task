@@ -1,12 +1,9 @@
-# Version Management Task
+# testing
 
 ## Description
 just testing
 ## Features
-- Git initialization
-- Version control operations: add, commit, push, pull
-- GitHub repository creation and README setup
-
+- none for now
 ## Instructions
 To clone this repository to your local machine, run the following command:
 
